@@ -8,6 +8,10 @@
 * KELOMPOK : 04 - RED DEAD REDEMPTION 2
 * KEGIATAN : DAY 1 - PROYEK WORKSHOP
 
+## PENGERTIAN DAN TUJUAN REPOSITORY
+Repository merupakan tempat penyimpanan proyek yang digunakan untuk mengelola file, kode program, serta mencatat setiap perubahan yang dilakukan selama proses pengembangan. Repository dapat disimpan secara lokal di komputer maupun secara online melalui platform seperti GitHub.
+Tujuan penggunaan repository adalah untuk mempermudah penyimpanan dan pengelolaan file proyek agar lebih teratur. Selain itu, repository membantu pengguna melihat riwayat perubahan, mengembalikan versi sebelumnya jika diperlukan, serta memudahkan kerja sama antaranggota tim. Dengan adanya repository, proses pengembangan proyek menjadi lebih terstruktur, aman, dan mudah dipantau.
+
  ## 1. PENGENALAN AKADEMIK
  Kegiatan pengenalan akademik ditujukan untuk membantu mahasiswa/i baru jurusan Teknik Informatika dan Komputer memahami lingkungan dan gambaran sistem perkuliahan. Seperti, tata tertib, kurikulum, serta runtutan sistem pembelajaran selama 8 semester.
  Kegiatan ini bertujuan untuk membantu mahasiswa/i beradaptasi dengan dunia perkuliahan, memahami sistem pembelajaran/akademik, serta persiapan menghadapi dunia industri. Dengan itu, TIK membawa visi ; "Menjadi jurusn yang bertaraf internasional serta mendukung daya saing bangsa" serta misi ; penerapan pendidikan vokasi, pengutamaan riset dan inovasi dan tata kelola digital yang efektif, akuntable, dan efisien."
@@ -30,5 +34,8 @@ Prompt Engineering adalah teknik menyusun instruksi untuk AI agar menghasilkan j
 Dalam penggunaan Git, terdapat beberapa perintah dasar, seperti git init untuk membuat repository baru, git add . untuk menyiapkan file yang berubah, dan git commit -m untuk menyimpan perubahan beserta keterangannya. Selain itu, git push digunakan untuk mengirim perubahan ke GitHub, git pull untuk mengambil pembaruan, dan git clone untuk menyalin repository ke komputer. Beberapa istilah penting lainnya adalah Staging Area, Commit, Branch, dan Pull Request (PR).
 Pada sesi praktik, peserta mencoba membuat aplikasi sederhana bernama Student Task Planner dengan bantuan AI. Kegiatan dimulai dengan memilih platform AI, menyusun prompt untuk menghasilkan kode aplikasi, kemudian membuat repository menggunakan Git. Setelah itu, peserta melakukan proses staging, commit, dan push agar hasil proyek dapat tersimpan di GitHub.
 Melalui kegiatan ini, saya memperoleh pemahaman mengenai cara menggunakan AI untuk membantu proses pembuatan aplikasi serta mempelajari dasar-dasar Git dan GitHub. Saya juga menjadi lebih memahami bagaimana cara menyimpan, mengelola, dan memperbarui proyek agar setiap perubahan dapat tercatat dengan baik.
- 
- 
+
+## DOKUMENTASI DAY 1 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/abdaaf65-aa10-428e-9208-57232a792b99" />
+<img width="738" height="1599" alt="image" src="https://github.com/user-attachments/assets/e358877b-39fc-4913-9554-6fe845a2f5cf" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9e339003-6fed-41b5-827a-ac7b668c95e4" />
